@@ -1,7 +1,6 @@
 <template>
     <div class="container">
         <div class="title">Table UI</div>
-        {{error}}
         <hr class="break" />
         <div class="menu">
             <div class="menuLeft">
